@@ -1,0 +1,11 @@
+name: SkyBlockEngine
+version: 1.2-SNAPSHOT
+main: net.hypixel.skyblock.SkyBlock
+authors: [ Hamza , EpicPortal , Dumbo]
+description: GodSpunky SkyBlock Sandbox plugin Developed by Team GodSpunky
+
+softdepend: [PlaceholderAPI, LibsDisguises]
+depend: [ ProtocolLib]
+commands:
+  setrank:
+

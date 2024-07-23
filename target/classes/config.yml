@@ -1,0 +1,11 @@
+licenseKey: "YOUR_LICENSE_KEY"
+hub_world: 'world'
+islands:
+  x: 0
+  z: 0
+  schematic: ''
+ip: 'mc.hypixel.net'
+discord: 'https://discord.gg/hypixel'
+store: 'STORE.HYPIXEL.IN'
+Config: true #for the player data config is true (if you want mongodb as playerdata storage then make it false)
+sandbox: true
